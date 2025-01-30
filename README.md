@@ -1,5 +1,5 @@
 # CS195-Fall24-Notebook-5
-
+## Underwater Animal Segmentation:
 <b>Due</b>: Wednesday, December 5th, 2024
 
 For this assignment, you'll use the final part of Underwater Animal Detection Dataset (UWS_sem_seg_v1), which can be downloaded from [here](https://drive.google.com/uc?id=155Vg3iOTK3aed11LXC2lFQBxhdimfuZB). This is a multiclass semantic segmentation task where you predict pixel labels from predefined categories of underwater animals (starfish, shark, whale) and background elements (rock, water, etc.). You'll evaluate pre-trained models like FCN and DeepLab from PyTorch, then train and test using the state-of-the-art HRNet (High Resolution Network).
